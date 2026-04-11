@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<div class="banner-layout">
+  <div class="banner-image">
+    <img src="{{ site.baseurl }}/assets/{{ page.hero_image | default: 'Ortigia_main.webp' }}" alt="Ortigia">
+  </div>
+
+  <article class="post">
+    <header class="banner-header">
+      <h1 class="banner-title">
+        {{ page.hero_title | default: page.title }}
+      </h1>
+      
+      {% if page.hero_subtitle %}
+        <p class="banner-subtitle">{{ page.hero_subtitle }}</p>
+      {% endif %}
+      
+      <div class="banner-details">
+        {% if page.location %}
+          <div class="badge"><i class="fas fa-map-marker-alt"></i> <span>{{ page.location }}</span></div>
+        {% endif %}
+        {% if page.dates %}
+          <div class="badge"><i class="fas fa-calendar-alt"></i> <span>{{ page.dates }}</span></div>
+        {% endif %}
+      </div>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </article>
+</div>
