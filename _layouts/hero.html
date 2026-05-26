@@ -24,6 +24,16 @@ layout: default
           <div class="badge"><i class="fas fa-calendar-alt"></i> <span>{{ page.dates }}</span></div>
         {% endif %}
       </div>
+
+      {% if page.link_title %}
+        <div class="banner-cta">
+          <a href="https://edas.info/N35457" class="submit-btn" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-upload"></i>
+            Submit your paper on EDAS
+            <i class="fas fa-arrow-right submit-btn-arrow"></i>
+          </a>
+        </div>
+      {% endif %}
     </header>
 
     <div class="post-content">

@@ -58,14 +58,33 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- **Workshop Paper Submission Deadline:** July 24, 2026
-- Workshop Paper Acceptance Notification: September 11, 2026
-- Camera Ready Deadline: September 25, 2026
-- **Workshop date:** one half day between November 10–13, 2026 (TBD)
+<div class="dates-grid">
+  <div class="date-card date-card--highlight">
+    <div class="date-card__icon"><i class="fas fa-file-alt"></i></div>
+    <div class="date-card__label">Paper Submission Deadline</div>
+    <div class="date-card__date">July 24, 2026</div>
+  </div>
+  <div class="date-card">
+    <div class="date-card__icon"><i class="fas fa-envelope-open-text"></i></div>
+    <div class="date-card__label">Acceptance Notification</div>
+    <div class="date-card__date">September 11, 2026</div>
+  </div>
+  <div class="date-card">
+    <div class="date-card__icon"><i class="fas fa-camera"></i></div>
+    <div class="date-card__label">Camera Ready Deadline</div>
+    <div class="date-card__date">September 25, 2026</div>
+  </div>
+  <div class="date-card">
+    <div class="date-card__icon"><i class="fas fa-chalkboard-teacher"></i></div>
+    <div class="date-card__label">Workshop Date</div>
+    <div class="date-card__date">Nov 10–13, 2026</div>
+  </div>
+</div>
 
-All times are intended in **Anywhere on Earth (AoE)** timezone.
+<p class="dates-timezone"><i class="fas fa-globe"></i> All times are in <strong>Anywhere on Earth (AoE)</strong> timezone.</p>
 
 ### Submission, review, participation, and publication details
+
 
 - **Originality**. Submitted papers must be original, unpublished, and not
   concurrently submitted for publication elsewhere.
@@ -73,7 +92,6 @@ All times are intended in **Anywhere on Earth (AoE)** timezone.
 - **Format**. All paper submissions should follow the formatting indications of
   the main conference, i.e., IEEE 8.5" x 11" Two-Column Format
   ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **E-submission site**: TBD
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes,
   significance, soundness, presentation, and overall quality. All papers will be
   reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be
