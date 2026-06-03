@@ -41,6 +41,14 @@ technologies (like Digital Twins, Autonomic Computing, Opportunistic Networks, e
 and runtime middleware solutions, which enhance effectiveness and efficiency of such
 a multi-layer system.
 
+<div class="submission-cta">
+  <a href="{{ site.baseurl }}/assets/CFP_ICON.pdf" class="submit-btn submit-btn--secondary" target="_blank">
+    <i class="fas fa-file-pdf"></i>
+    Download Call for Papers (PDF)
+    <i class="fas fa-download submit-btn-arrow"></i>
+  </a>
+</div>
+
 The topics of interest include (but are not limited to) the following:
 
 - Architectures and platforms for **CPS and IoT** across the Edge–Cloud Continuum
