@@ -70,7 +70,7 @@ The topics of interest include (but are not limited to) the following:
   <div class="date-card date-card--highlight">
     <div class="date-card__icon"><i class="fas fa-file-alt"></i></div>
     <div class="date-card__label">Paper Submission Deadline</div>
-    <div class="date-card__date">July 24, 2026</div>
+    <div class="date-card__date">July 31, 2026 <span class="date-card__extended">(extended)</span></div>
   </div>
   <div class="date-card">
     <div class="date-card__icon"><i class="fas fa-envelope-open-text"></i></div>
