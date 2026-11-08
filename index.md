@@ -91,6 +91,14 @@ The topics of interest include (but are not limited to) the following:
 
 <p class="dates-timezone"><i class="fas fa-globe"></i> All times are in <strong>Anywhere on Earth (AoE)</strong> timezone.</p>
 
+<div class="submission-cta" style="margin-top: 1.5rem;">
+  <a href="{{ site.baseurl }}/program.html" class="submit-btn">
+    <i class="fas fa-calendar-check"></i>
+    View Workshop Program
+    <i class="fas fa-arrow-right submit-btn-arrow"></i>
+  </a>
+</div>
+
 ### Submission, review, participation, and publication details
 
 
