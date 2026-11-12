@@ -67,7 +67,7 @@ title: Workshop Program
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
               <span class="author-name">Mario Coppola</span> <span class="affiliation">(University of Modena and Reggio Emilia, Italy)</span>; 
-              <span class="author-name">Thiago Alves de Queiroz</span> <span class="affiliation">(Universidade Federal de Goias, Brazil)</span>; 
+              <span class="author-name">Thiago Alves de Queiroz</span> <span class="affiliation">(Federal University of Goiás, Brazil)</span>; 
               <span class="author-name">Manuel Iori</span> and <span class="author-name">Riccardo Lancellotti</span> <span class="affiliation">(University of Modena and Reggio Emilia, Italy)</span>; 
               <span class="author-name">Ning Na</span> <span class="affiliation">(Xi'an Jiaotong University, China)</span>
             </div>
@@ -113,7 +113,7 @@ title: Workshop Program
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
               <span class="author-name">Vincenzo Alessio Bucaria</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Marco Garofalo</span> <span class="affiliation">(Università Degli Studi di Messina, Italy)</span>; 
+              <span class="author-name">Marco Garofalo</span> <span class="affiliation">(University of Messina, Italy)</span>; 
               <span class="author-name">Pasquale De Meo</span> <span class="affiliation">(University of Messina, Italy)</span>; 
               <span class="author-name">Giovanni Merlino</span> <span class="affiliation">(University of Messina & National Interuniversity Consortium for Informatics (CINI), Italy)</span>; 
               <span class="author-name">Antonio Puliafito</span>, <span class="author-name">Giuseppe Tricomi</span> and <span class="author-name">Francesco Longo</span> <span class="affiliation">(University of Messina, Italy)</span>
@@ -137,7 +137,7 @@ title: Workshop Program
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
               <span class="author-name">Claudio Pelleriti</span> <span class="affiliation">(University of Palermo, Italy)</span>; 
-              <span class="author-name">Valeria Seidita</span> <span class="affiliation">(DIID - Università degli Studi di Palermo, Italy)</span>
+              <span class="author-name">Valeria Seidita</span> <span class="affiliation">(University of Palermo, Italy)</span>
             </div>
           </div>
         </div>
@@ -226,7 +226,7 @@ title: Workshop Program
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
               <span class="author-name">Gabriele Orazi</span>, <span class="author-name">Pierpaolo Guglielmin</span> and <span class="author-name">Davide Bresolin</span> <span class="affiliation">(University of Padua, Italy)</span>; 
-              <span class="author-name">Mauro Conti</span> <span class="affiliation">(University of Padova, Italy)</span>
+              <span class="author-name">Mauro Conti</span> <span class="affiliation">(University of Padua, Italy)</span>
             </div>
           </div>
         </div>
@@ -248,8 +248,8 @@ title: Workshop Program
             <div class="authors-text">
               <span class="author-name">Francesco Colace</span> and <span class="author-name">Dajana Conte</span> <span class="affiliation">(University of Salerno, Italy)</span>; 
               <span class="author-name">Angelo Lorusso</span> <span class="affiliation">(Pegaso University, Italy & University of Salerno, Italy)</span>; 
-              <span class="author-name">Domenico Santaniello</span> <span class="affiliation">(Università degli Studi di Salerno, Italy)</span>; 
-              <span class="author-name">Carmine Valentino</span> <span class="affiliation">(University Of Salerno, Italy)</span>
+              <span class="author-name">Domenico Santaniello</span> <span class="affiliation">(University of Salerno, Italy)</span>; 
+              <span class="author-name">Carmine Valentino</span> <span class="affiliation">(University of Salerno, Italy)</span>
             </div>
           </div>
         </div>
