@@ -66,10 +66,18 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Mario Coppola</span> <span class="affiliation">(University of Modena and Reggio Emilia, Italy)</span>; 
-              <span class="author-name">Thiago Alves de Queiroz</span> <span class="affiliation">(Federal University of Goiás, Brazil)</span>; 
-              <span class="author-name">Manuel Iori</span> and <span class="author-name">Riccardo Lancellotti</span> <span class="affiliation">(University of Modena and Reggio Emilia, Italy)</span>; 
-              <span class="author-name">Ning Na</span> <span class="affiliation">(Xi'an Jiaotong University, China)</span>
+              <div class="authors-names">
+                <span class="author-name">Mario Coppola</span><sup>1</sup>, 
+                <span class="author-name">Thiago Alves de Queiroz</span><sup>2</sup>, 
+                <span class="author-name">Manuel Iori</span><sup>1</sup>, 
+                <span class="author-name">Riccardo Lancellotti</span><sup>1</sup> and 
+                <span class="author-name">Ning Na</span><sup>3</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Modena and Reggio Emilia, Italy</span>
+                <span class="affiliation-item"><sup>2</sup> Federal University of Goiás, Brazil</span>
+                <span class="affiliation-item"><sup>3</sup> Xi'an Jiaotong University, China</span>
+              </div>
             </div>
           </div>
         </div>
@@ -89,10 +97,20 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Viviana Casale</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Rida Maamoor</span> <span class="affiliation">(University of Campania Luigi Vanvitelli, Italy)</span>; 
-              <span class="author-name">Luca D'Agati</span>, <span class="author-name">Giuseppe Tricomi</span>, <span class="author-name">Fabio Orazio Mirto</span> and <span class="author-name">Francesco Longo</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Giovanni Merlino</span> <span class="affiliation">(University of Messina & National Interuniversity Consortium for Informatics (CINI), Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Viviana Casale</span><sup>1</sup>, 
+                <span class="author-name">Rida Maamoor</span><sup>2</sup>, 
+                <span class="author-name">Luca D'Agati</span><sup>1</sup>, 
+                <span class="author-name">Giuseppe Tricomi</span><sup>1</sup>, 
+                <span class="author-name">Fabio Orazio Mirto</span><sup>1</sup>, 
+                <span class="author-name">Francesco Longo</span><sup>1</sup> and 
+                <span class="author-name">Giovanni Merlino</span><sup>1,3</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Messina, Italy</span>
+                <span class="affiliation-item"><sup>2</sup> University of Campania Luigi Vanvitelli, Italy</span>
+                <span class="affiliation-item"><sup>3</sup> National Interuniversity Consortium for Informatics (CINI), Italy</span>
+              </div>
             </div>
           </div>
         </div>
@@ -112,11 +130,19 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Vincenzo Alessio Bucaria</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Marco Garofalo</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Pasquale De Meo</span> <span class="affiliation">(University of Messina, Italy)</span>; 
-              <span class="author-name">Giovanni Merlino</span> <span class="affiliation">(University of Messina & National Interuniversity Consortium for Informatics (CINI), Italy)</span>; 
-              <span class="author-name">Antonio Puliafito</span>, <span class="author-name">Giuseppe Tricomi</span> and <span class="author-name">Francesco Longo</span> <span class="affiliation">(University of Messina, Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Vincenzo Alessio Bucaria</span><sup>1</sup>, 
+                <span class="author-name">Marco Garofalo</span><sup>1</sup>, 
+                <span class="author-name">Pasquale De Meo</span><sup>1</sup>, 
+                <span class="author-name">Giovanni Merlino</span><sup>1,2</sup>, 
+                <span class="author-name">Antonio Puliafito</span><sup>1</sup>, 
+                <span class="author-name">Giuseppe Tricomi</span><sup>1</sup> and 
+                <span class="author-name">Francesco Longo</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Messina, Italy</span>
+                <span class="affiliation-item"><sup>2</sup> National Interuniversity Consortium for Informatics (CINI), Italy</span>
+              </div>
             </div>
           </div>
         </div>
@@ -136,8 +162,13 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Claudio Pelleriti</span> <span class="affiliation">(University of Palermo, Italy)</span>; 
-              <span class="author-name">Valeria Seidita</span> <span class="affiliation">(University of Palermo, Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Claudio Pelleriti</span><sup>1</sup> and 
+                <span class="author-name">Valeria Seidita</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Palermo, Italy</span>
+              </div>
             </div>
           </div>
         </div>
@@ -157,7 +188,15 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Marco Loaiza</span>, <span class="author-name">Vincenzo Barbuto</span>, <span class="author-name">Claudio Savaglio</span> and <span class="author-name">Raffaele Gravina</span> <span class="affiliation">(University of Calabria, Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Marco Loaiza</span><sup>1</sup>, 
+                <span class="author-name">Vincenzo Barbuto</span><sup>1</sup>, 
+                <span class="author-name">Claudio Savaglio</span><sup>1</sup> and 
+                <span class="author-name">Raffaele Gravina</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Calabria, Italy</span>
+              </div>
             </div>
           </div>
         </div>
@@ -203,9 +242,20 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Kamil Malinka</span> <span class="affiliation">(Brno University of Technology, Czech Republic)</span>; 
-              <span class="author-name">Martin Perešíni</span> <span class="affiliation">(Brno University of Technology, Czech Republic & University of Zürich, Switzerland)</span>; 
-              <span class="author-name">Radek Hranicky</span>, <span class="author-name">Anton Firc</span>, <span class="author-name">Aleš Smrčka</span>, <span class="author-name">Ondřej Hujňák</span>, <span class="author-name">Jakub Kratochvíl</span> and <span class="author-name">Galian Sitko</span> <span class="affiliation">(Brno University of Technology, Czech Republic)</span>
+              <div class="authors-names">
+                <span class="author-name">Kamil Malinka</span><sup>1</sup>, 
+                <span class="author-name">Martin Perešíni</span><sup>1,2</sup>, 
+                <span class="author-name">Radek Hranicky</span><sup>1</sup>, 
+                <span class="author-name">Anton Firc</span><sup>1</sup>, 
+                <span class="author-name">Aleš Smrčka</span><sup>1</sup>, 
+                <span class="author-name">Ondřej Hujňák</span><sup>1</sup>, 
+                <span class="author-name">Jakub Kratochvíl</span><sup>1</sup> and 
+                <span class="author-name">Galian Sitko</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> Brno University of Technology, Czech Republic</span>
+                <span class="affiliation-item"><sup>2</sup> University of Zürich, Switzerland</span>
+              </div>
             </div>
           </div>
         </div>
@@ -225,8 +275,15 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Gabriele Orazi</span>, <span class="author-name">Pierpaolo Guglielmin</span> and <span class="author-name">Davide Bresolin</span> <span class="affiliation">(University of Padua, Italy)</span>; 
-              <span class="author-name">Mauro Conti</span> <span class="affiliation">(University of Padua, Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Gabriele Orazi</span><sup>1</sup>, 
+                <span class="author-name">Pierpaolo Guglielmin</span><sup>1</sup>, 
+                <span class="author-name">Davide Bresolin</span><sup>1</sup> and 
+                <span class="author-name">Mauro Conti</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Padua, Italy</span>
+              </div>
             </div>
           </div>
         </div>
@@ -246,10 +303,17 @@ title: Workshop Program
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
             <div class="authors-text">
-              <span class="author-name">Francesco Colace</span> and <span class="author-name">Dajana Conte</span> <span class="affiliation">(University of Salerno, Italy)</span>; 
-              <span class="author-name">Angelo Lorusso</span> <span class="affiliation">(Pegaso University, Italy & University of Salerno, Italy)</span>; 
-              <span class="author-name">Domenico Santaniello</span> <span class="affiliation">(University of Salerno, Italy)</span>; 
-              <span class="author-name">Carmine Valentino</span> <span class="affiliation">(University of Salerno, Italy)</span>
+              <div class="authors-names">
+                <span class="author-name">Francesco Colace</span><sup>1</sup>, 
+                <span class="author-name">Dajana Conte</span><sup>1</sup>, 
+                <span class="author-name">Angelo Lorusso</span><sup>1,2</sup>, 
+                <span class="author-name">Domenico Santaniello</span><sup>1</sup> and 
+                <span class="author-name">Carmine Valentino</span><sup>1</sup>
+              </div>
+              <div class="authors-affiliations">
+                <span class="affiliation-item"><sup>1</sup> University of Salerno, Italy</span>
+                <span class="affiliation-item"><sup>2</sup> Pegaso University, Italy</span>
+              </div>
             </div>
           </div>
         </div>
