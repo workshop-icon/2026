@@ -6,40 +6,78 @@ hero_subtitle: Co-located with IEEE International Symposium on Network Computing
 hero_image: Ortigia_main.webp
 location: Ortigia–Syracuse, Sicily, Italy
 dates: November 10–13, 2026
-link_title: Call for Papers
+link_title: Home
 ---
 
 The 1st Workshop on **I**oT Applications and **C**yber-Physical Systems in the
-Edge–Cloud C**ON**tinuum (ICON) is co-located with the [24th IEEE International Symposium
+Edge–Cloud C**ON**tinuum (ICON) was co-located with the [24th IEEE International Symposium
 on Network Computing and Applications (NCA 2026)](https://www.nca-ieee.org/2026/index.html)
-that will take place in Ortigia–Syracuse, Sicily, Italy, November 10–13, 2026.
+and successfully took place in Ortigia–Syracuse, Sicily, Italy, on November 10–13, 2026.
 
-## 🏆 Best Paper Award
+## 📸 Highlights of the 1st Edition
 
-<div class="award-showcase">
-  <div class="award-showcase__badge">
-    <i class="fas fa-trophy"></i> Best Paper Award
-  </div>
-  <div class="award-showcase__title">
-    Analyzing the Trade-offs of Multi-Version Microservice Placement in Edge Computing Infrastructures
-  </div>
-  <div class="award-showcase__authors">
-    <i class="fas fa-user-friends"></i>
-    <div class="authors-text">
-      <div class="authors-names">
-        <span class="author-name">Mario Coppola</span><sup>1</sup>, 
-        <span class="author-name">Thiago Alves de Queiroz</span><sup>2</sup>, 
-        <span class="author-name">Manuel Iori</span><sup>1</sup>, 
-        <span class="author-name">Riccardo Lancellotti</span><sup>1</sup> and 
-        <span class="author-name">Ning Na</span><sup>3</sup>
+<div class="award-showcase award-showcase--ceremony">
+  <div class="award-showcase__grid">
+    <div class="award-showcase__photo-col">
+      <div class="award-photo-frame">
+        <img src="{{ site.baseurl }}/assets/img/best_paper_award.webp" alt="Best Paper Award Ceremony: Riccardo Lancellotti and Vincenzo Barbuto" class="award-photo">
+        <div class="award-photo-caption">
+          <i class="fas fa-camera"></i> Award presentation with winner Riccardo Lancellotti and Co-Chair Vincenzo Barbuto
+        </div>
       </div>
-      <div class="authors-affiliations">
-        <span class="affiliation-item"><sup>1</sup> University of Modena and Reggio Emilia, Italy</span>
-        <span class="affiliation-item"><sup>2</sup> Federal University of Goiás, Brazil</span>
-        <span class="affiliation-item"><sup>3</sup> Xi'an Jiaotong University, China</span>
+    </div>
+    <div class="award-showcase__info-col">
+      <div class="award-showcase__badge">
+        <i class="fas fa-trophy"></i> Best Paper Award
+      </div>
+      <div class="award-showcase__title">
+        Analyzing the Trade-offs of Multi-Version Microservice Placement in Edge Computing Infrastructures
+      </div>
+      <div class="award-showcase__authors">
+        <i class="fas fa-user-friends"></i>
+        <div class="authors-text">
+          <div class="authors-names">
+            <span class="author-name">Mario Coppola</span><sup>1</sup>, 
+            <span class="author-name">Thiago Alves de Queiroz</span><sup>2</sup>, 
+            <span class="author-name">Manuel Iori</span><sup>1</sup>, 
+            <span class="author-name">Riccardo Lancellotti</span><sup>1</sup> and 
+            <span class="author-name">Ning Na</span><sup>3</sup>
+          </div>
+          <div class="authors-affiliations">
+            <span class="affiliation-item"><sup>1</sup> University of Modena and Reggio Emilia, Italy</span>
+            <span class="affiliation-item"><sup>2</sup> Federal University of Goiás, Brazil</span>
+            <span class="affiliation-item"><sup>3</sup> Xi'an Jiaotong University, China</span>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+</div>
+
+<div class="highlights-stats">
+  <div class="stat-item">
+    <i class="fas fa-map-marker-alt"></i>
+    <strong>Ortigia–Syracuse, Sicily</strong>
+    <span>Co-located with IEEE NCA 2026</span>
+  </div>
+  <div class="stat-item">
+    <i class="fas fa-chalkboard-teacher"></i>
+    <strong>8 Presentations</strong>
+    <span>Across 2 technical sessions</span>
+  </div>
+  <div class="stat-item">
+    <i class="fas fa-book-open"></i>
+    <strong>IEEE Xplore</strong>
+    <span>Indexed proceedings</span>
+  </div>
+</div>
+
+<div class="submission-cta" style="margin: 1.25rem 0 2.5rem;">
+  <a href="{{ site.baseurl }}/program.html" class="submit-btn">
+    <i class="fas fa-calendar-check"></i>
+    Explore the Complete Workshop Program
+    <i class="fas fa-arrow-right submit-btn-arrow"></i>
+  </a>
 </div>
 
 ## Call for Papers
@@ -94,30 +132,39 @@ The topics of interest include (but are not limited to) the following:
 
 ### Important Dates
 
+<div class="dates-notice">
+  <i class="fas fa-calendar-check"></i>
+  <span>The 1st edition of ICON has concluded. All deadlines and events have passed.</span>
+</div>
+
 <div class="dates-grid">
-  <div class="date-card date-card--highlight">
+  <div class="date-card date-card--passed">
+    <div class="date-card__status"><i class="fas fa-check"></i> Closed</div>
     <div class="date-card__icon"><i class="fas fa-file-alt"></i></div>
     <div class="date-card__label">Paper Submission Deadline</div>
     <div class="date-card__date">August 6, 2026 <span class="date-card__extended">(extended)</span></div>
   </div>
-  <div class="date-card">
+  <div class="date-card date-card--passed">
+    <div class="date-card__status"><i class="fas fa-check"></i> Passed</div>
     <div class="date-card__icon"><i class="fas fa-envelope-open-text"></i></div>
     <div class="date-card__label">Acceptance Notification</div>
     <div class="date-card__date">September 11, 2026</div>
   </div>
-  <div class="date-card">
+  <div class="date-card date-card--passed">
+    <div class="date-card__status"><i class="fas fa-check"></i> Closed</div>
     <div class="date-card__icon"><i class="fas fa-camera"></i></div>
     <div class="date-card__label">Camera Ready Deadline</div>
     <div class="date-card__date">September 25, 2026</div>
   </div>
-  <div class="date-card">
-    <div class="date-card__icon"><i class="fas fa-chalkboard-teacher"></i></div>
-    <div class="date-card__label">Workshop Date</div>
+  <div class="date-card date-card--concluded">
+    <div class="date-card__status"><i class="fas fa-flag-checkered"></i> Concluded</div>
+    <div class="date-card__icon"><i class="fas fa-calendar-check"></i></div>
+    <div class="date-card__label">Workshop Event</div>
     <div class="date-card__date">Nov 10–13, 2026</div>
   </div>
 </div>
 
-<p class="dates-timezone"><i class="fas fa-globe"></i> All times are in <strong>Anywhere on Earth (AoE)</strong> timezone.</p>
+<p class="dates-timezone"><i class="fas fa-globe"></i> All deadlines operated in <strong>Anywhere on Earth (AoE)</strong> timezone.</p>
 
 <div class="submission-cta" style="margin-top: 1.5rem;">
   <a href="{{ site.baseurl }}/program.html" class="submit-btn">
@@ -127,23 +174,17 @@ The topics of interest include (but are not limited to) the following:
   </a>
 </div>
 
-### Submission, review, participation, and publication details
+### Publication & Participation Details
 
-
-- **Originality**. Submitted papers must be original, unpublished, and not
+- **Originality**. Submitted papers were original, unpublished, and not
   concurrently submitted for publication elsewhere.
-- **Accepted submissions**. The workshop welcomes original research contributions formatted using the two-column IEEE conference template. These must not exceed **6 pages** (including figures, tables, and references; up to one additional page allowed at extra cost in accordance with [NCA 2026 guidelines](https://www.nca-ieee.org/2026/index.html)).
-- **Format**. All paper submissions should follow the formatting indications of
-  the main conference, i.e., IEEE 8.5" x 11" Two-Column Format
+- **Accepted submissions**. The workshop accepted original research contributions formatted using the two-column IEEE conference template, up to **6 pages** (in accordance with [NCA 2026 guidelines](https://www.nca-ieee.org/2026/index.html)).
+- **Format**. All paper submissions followed the IEEE 8.5" x 11" Two-Column Format
   ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
-- **Reviews**. Papers will be peer reviewed for originality, relevance to themes,
-  significance, soundness, presentation, and overall quality. All papers will be
-  reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be
-  single-blind.
-- **Registration and presentation**. At least one of the authors of every accepted
-  paper must register and present the paper at the workshop. The conference will
-  be **in-person** and no virtual or remote presentations will be permitted.
-- **Publication**. All *accepted and presented* papers will be submitted for
+- **Reviews**. Papers were peer-reviewed for originality, relevance to themes,
+  significance, soundness, presentation, and overall quality by the TPC with a minimum of 3 reviews per paper.
+- **Participation & Presentation**. All accepted papers were presented in-person during the workshop sessions in Ortigia–Syracuse.
+- **Publication**. All *accepted and presented* papers are submitted for
   inclusion in *IEEE Xplore* Digital Library, as part of the NCA 2026 proceedings,
   subject to IEEE's publication requirements.
 
