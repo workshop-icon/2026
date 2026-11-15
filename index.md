@@ -14,6 +14,34 @@ Edge–Cloud C**ON**tinuum (ICON) is co-located with the [24th IEEE Internationa
 on Network Computing and Applications (NCA 2026)](https://www.nca-ieee.org/2026/index.html)
 that will take place in Ortigia–Syracuse, Sicily, Italy, November 10–13, 2026.
 
+## 🏆 Best Paper Award
+
+<div class="award-showcase">
+  <div class="award-showcase__badge">
+    <i class="fas fa-trophy"></i> Best Paper Award
+  </div>
+  <div class="award-showcase__title">
+    Analyzing the Trade-offs of Multi-Version Microservice Placement in Edge Computing Infrastructures
+  </div>
+  <div class="award-showcase__authors">
+    <i class="fas fa-user-friends"></i>
+    <div class="authors-text">
+      <div class="authors-names">
+        <span class="author-name">Mario Coppola</span><sup>1</sup>, 
+        <span class="author-name">Thiago Alves de Queiroz</span><sup>2</sup>, 
+        <span class="author-name">Manuel Iori</span><sup>1</sup>, 
+        <span class="author-name">Riccardo Lancellotti</span><sup>1</sup> and 
+        <span class="author-name">Ning Na</span><sup>3</sup>
+      </div>
+      <div class="authors-affiliations">
+        <span class="affiliation-item"><sup>1</sup> University of Modena and Reggio Emilia, Italy</span>
+        <span class="affiliation-item"><sup>2</sup> Federal University of Goiás, Brazil</span>
+        <span class="affiliation-item"><sup>3</sup> Xi'an Jiaotong University, China</span>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Call for Papers
 
 The widespread adoption of Internet of Things (IoT) technologies is fundamentally

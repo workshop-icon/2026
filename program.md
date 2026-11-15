@@ -25,6 +25,33 @@ title: Workshop Program
     </div>
   </div>
 
+  <!-- Best Paper Award Announcement -->
+  <div class="award-showcase">
+    <div class="award-showcase__badge">
+      <i class="fas fa-trophy"></i> Best Paper Award
+    </div>
+    <div class="award-showcase__title">
+      Analyzing the Trade-offs of Multi-Version Microservice Placement in Edge Computing Infrastructures
+    </div>
+    <div class="award-showcase__authors">
+      <i class="fas fa-user-friends"></i>
+      <div class="authors-text">
+        <div class="authors-names">
+          <span class="author-name">Mario Coppola</span><sup>1</sup>, 
+          <span class="author-name">Thiago Alves de Queiroz</span><sup>2</sup>, 
+          <span class="author-name">Manuel Iori</span><sup>1</sup>, 
+          <span class="author-name">Riccardo Lancellotti</span><sup>1</sup> and 
+          <span class="author-name">Ning Na</span><sup>3</sup>
+        </div>
+        <div class="authors-affiliations">
+          <span class="affiliation-item"><sup>1</sup> University of Modena and Reggio Emilia, Italy</span>
+          <span class="affiliation-item"><sup>2</sup> Federal University of Goiás, Brazil</span>
+          <span class="affiliation-item"><sup>3</sup> Xi'an Jiaotong University, China</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- Session 1 -->
   <div class="session-block">
     <div class="session-heading">
@@ -52,16 +79,19 @@ title: Workshop Program
         </div>
       </div>
 
-      <!-- 09:10 - 09:25: Paper 1 -->
-      <div class="presentation-card">
+      <!-- 09:10 - 09:25: Paper 1 (Best Paper Award) -->
+      <div class="presentation-card presentation-card--award">
         <div class="presentation-card__time">
           <span class="presentation-card__badge">
             <i class="fas fa-clock"></i> 09:10 – 09:25
           </span>
         </div>
         <div class="presentation-card__content">
+          <div class="award-pill">
+            <i class="fas fa-trophy"></i> Best Paper Award
+          </div>
           <div class="presentation-card__title">
-            Analyzing the trade-offs of multi-version micro-service placement in edge computing infrastructures
+            Analyzing the Trade-offs of Multi-Version Microservice Placement in Edge Computing Infrastructures
           </div>
           <div class="presentation-card__authors">
             <i class="fas fa-user-friends"></i>
