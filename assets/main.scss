@@ -1,4 +1,6 @@
---- --- @use "minima";
+---
+---
+@use "minima";
 
 /* Premium Design Tokens */
 :root {
@@ -1400,265 +1402,50 @@ p {
 }
 
 /* ==========================================================================
-   Highlights Recap Grid
    Highlights Stats Strip
    ========================================================================== */
 
-.highlights-recap-grid {
-  .highlights-stats {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.35rem;
-    margin: 2rem 0 2rem;
-    gap: 1px;
-    background: #e2e8f0;
-    border: 1px solid #e2e8f0;
-    border-radius: 14px;
-    overflow: hidden;
-    margin: 1.75rem 0 1.5rem;
+.highlights-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: #e2e8f0;
+  border: 1px solid #e2e8f0;
+  border-radius: 14px;
+  overflow: hidden;
+  margin: 1.75rem 0 1.5rem;
 
-    @media (max-width: 900px) {
-      @media (max-width: 720px) {
-        grid-template-columns: 1fr;
-        gap: 1.15rem;
-      }
-    }
+  @media (max-width: 720px) {
+    grid-template-columns: 1fr;
+  }
+}
 
-    .highlight-card {
-      position: relative;
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.4rem 1rem;
+  background: #fff;
 
-      .stat-item {
-        display: flex;
-        flex-direction: column;
-        background: #ffffff;
-        border-radius: 16px;
-        border: 1px solid #e2e8f0;
-        padding: 1.5rem;
-        box-shadow: 0 4px 16px rgba(15, 23, 42, 0.04), 0 1px 3px rgba(15, 23, 42, 0.02);
-        transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.28s ease, border-color 0.28s ease;
-        overflow: hidden;
-        align-items: center;
-        text-align: center;
-        padding: 1.4rem 1rem;
-        background: #fff;
+  i {
+    font-size: 1.15rem;
+    color: #94a3b8;
+    margin-bottom: 0.6rem;
+  }
 
-        /* Top accent indicator line */
-        &::before {
-          content: "";
-          position: absolute;
-          top: 0;
-          left: 0;
-          right: 0;
-          height: 4px;
-          background: #cbd5e1;
-          transition: height 0.25s ease;
-        }
+  strong {
+    display: block;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 0.2rem;
+  }
 
-        &:hover {
-          transform: translateY(-4px);
-          box-shadow: 0 14px 30px -4px rgba(15, 23, 42, 0.1), 0 4px 12px -2px rgba(15, 23, 42, 0.04);
-          border-color: #cbd5e1;
+  span {
+    font-size: 0.8rem;
+    color: #64748b;
+    line-height: 1.4;
+  }
+}
 
-          &::before {
-            height: 5px;
-          }
-
-          .highlight-card__icon {
-            transform: scale(1.06);
-          }
-        }
-
-        &__header {
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          margin-bottom: 1.15rem;
-        }
-
-        &__icon {
-          width: 48px;
-          height: 48px;
-          border-radius: 14px;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 1.25rem;
-          transition: transform 0.25s ease;
-        }
-
-        &__category {
-          font-size: 0.72rem;
-          font-weight: 700;
-          letter-spacing: 0.08em;
-          text-transform: uppercase;
-
-          i {
-            font-size: 1.15rem;
-            color: #94a3b8;
-            margin-bottom: 0.6rem;
-          }
-
-          &__body {
-            flex: 1;
-            margin-bottom: 1.25rem;
-          }
-
-          &__title {
-            font-size: 1.15rem;
-
-            strong {
-              display: block;
-              font-size: 0.95rem;
-              font-weight: 700;
-              color: #0f172a;
-              line-height: 1.35;
-              margin: 0 0 0.55rem;
-              margin-bottom: 0.2rem;
-            }
-
-            &__description {
-              font-size: 0.88rem;
-              color: #475569;
-              line-height: 1.55;
-              margin: 0;
-
-              strong {
-                color: #1e293b;
-              }
-
-              span {
-                font-size: 0.8rem;
-                color: #64748b;
-                line-height: 1.4;
-              }
-
-              &__footer {
-                display: flex;
-                flex-wrap: wrap;
-                gap: 0.45rem;
-                padding-top: 0.85rem;
-                border-top: 1px dashed #e2e8f0;
-              }
-
-              &__pill {
-                display: inline-flex;
-                align-items: center;
-                gap: 0.35rem;
-                font-size: 0.74rem;
-                font-weight: 600;
-                padding: 0.3rem 0.65rem;
-                border-radius: 9999px;
-                background: #f1f5f9;
-                color: #475569;
-
-                i {
-                  font-size: 0.7rem;
-                }
-
-                &--accent {
-                  background: #f8fafc;
-                  border: 1px solid #e2e8f0;
-                  color: #334155;
-                }
-              }
-
-              /* Variant 1: Venue & Dates (Ocean/Sky) */
-              &--venue {
-                &::before {
-                  background: linear-gradient(90deg, #0284c7 0%, #38bdf8 100%);
-                }
-
-                .highlight-card__icon {
-                  background: rgba(2, 132, 199, 0.1);
-                  color: #0284c7;
-                  border: 1px solid rgba(2, 132, 199, 0.18);
-                }
-
-                &:hover {
-                  border-color: rgba(2, 132, 199, 0.35);
-                }
-              }
-
-              /* Variant 2: Program & Sessions (Indigo/Violet) */
-              &--program {
-                &::before {
-                  background: linear-gradient(90deg, #6366f1 0%, #818cf8 100%);
-                }
-
-                .highlight-card__icon {
-                  background: rgba(99, 102, 241, 0.1);
-                  color: #4f46e5;
-                  border: 1px solid rgba(99, 102, 241, 0.18);
-                }
-
-                &:hover {
-                  border-color: rgba(99, 102, 241, 0.35);
-                }
-              }
-
-              /* Variant 3: Publication & IEEE (Teal/Emerald) */
-              &--publication {
-                &::before {
-                  background: linear-gradient(90deg, #059669 0%, #34d399 100%);
-                }
-
-                .highlight-card__icon {
-                  background: rgba(5, 150, 105, 0.1);
-                  color: #059669;
-                  border: 1px solid rgba(5, 150, 105, 0.18);
-                }
-
-                &:hover {
-                  border-color: rgba(5, 150, 105, 0.35);
-                }
-              }
-            }
-
-            /* Backward compatibility for highlight-item */
-            .highlight-item {
-              display: flex;
-              align-items: flex-start;
-              gap: 1rem;
-              background: #fff;
-              border: 1px solid #e2e8f0;
-              border-radius: 14px;
-              padding: 1.25rem;
-              box-shadow: 0 2px 10px rgba(0, 0, 0, 0.03);
-              transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
-
-              &:hover {
-                transform: translateY(-2px);
-                box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-                border-color: #cbd5e1;
-              }
-
-              &__icon {
-                width: 46px;
-                height: 46px;
-                border-radius: 12px;
-                background: linear-gradient(135deg, #0f2027 0%, #2c5364 100%);
-                color: #7dd3fc;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-size: 1.2rem;
-                flex-shrink: 0;
-              }
-
-              &__content {
-                strong {
-                  display: block;
-                  font-size: 0.98rem;
-                  color: #0f172a;
-                  margin-bottom: 0.25rem;
-                  font-weight: 700;
-                }
-
-                span {
-                  display: block;
-                  font-size: 0.88rem;
-                  color: #64748b;
-                  line-height: 1.45;
-                }
-              }
-            }
